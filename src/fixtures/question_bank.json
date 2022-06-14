@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "question": "From what district of New Quezon City Central Business District including Lung Center and BIR?",
+        "answers": [
+            {
+                "text": "Central Exchange",
+                "correct": false
+            },
+            {
+                "text": "Commons",
+                "correct": false
+            },
+            {
+                "text": "Downtown Hub",
+                "correct": true
+            },
+            {
+                "text": "Emporium",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What city is the first capital city in the Philippines?",
+        "answers": [
+            {
+                "text": "Manila",
+                "correct": true
+            },
+            {
+                "text": "Davao",
+                "correct": false
+            },
+            {
+                "text": "Legazpi",
+                "correct": false
+            },
+            {
+                "text": "Cebu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "In the song 1 little 2 little 3 little indians, what are the names of the indians?",
+        "answers": [
+            {
+                "text": "Bruno, Frince, Alfredo",
+                "correct": false
+            },
+            {
+                "text": "Ritchie, Jolo, Arnold",
+                "correct": true
+            },
+            {
+                "text": "Rowie, Ryan, Enrico",
+                "correct": false
+            },
+            {
+                "text": "None of the above",
+                "correct": false
+            }
+        ]
+    }
+]
