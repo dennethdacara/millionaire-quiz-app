@@ -45,22 +45,44 @@
     },
     {
         "id": 3,
-        "question": "In the song 1 little 2 little 3 little indians, what are the names of the indians?",
+        "question": "Which country held the first ever Winter Olympics?",
         "answers": [
             {
-                "text": "Bruno, Frince, Alfredo",
+                "text": "Switzerland",
                 "correct": false
             },
             {
-                "text": "Ritchie, Jolo, Arnold",
+                "text": "USA",
+                "correct": false
+            },
+            {
+                "text": "Austria",
+                "correct": false
+            },
+            {
+                "text": "France",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Who read the Act of Proclamation of Independence on June 12, 1898?",
+        "answers": [
+            {
+                "text": "Jose Velasquez Palma",
+                "correct": false
+            },
+            {
+                "text": "Gen. Artemio Ricarte",
+                "correct": false
+            },
+            {
+                "text": "Ambrosio Rianzares Bautista",
                 "correct": true
             },
             {
-                "text": "Rowie, Ryan, Enrico",
-                "correct": false
-            },
-            {
-                "text": "None of the above",
+                "text": "Mariano Trias",
                 "correct": false
             }
         ]
